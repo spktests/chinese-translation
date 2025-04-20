@@ -26,7 +26,5 @@ FEG 项目已采取重要步骤，通过将其流动性转移到多个多重签�
 
 <table data-header-hidden><thead><tr><th width="192"></th><th></th></tr></thead><tbody><tr><td>增长</td><td><a href="https://etherscan.io/tx/0x74768a30d76b05fbb000d7570503038c866a0732416bb919b0df461eeb88f679"><strong>LP 代币</strong></a><strong>、未来销毁、CEX、VC 融资等。请参阅</strong> <a href="https://etherscan.io/tx/0xda7b4242e1465a70ccc33c2ec7a36fbc022f54cc1fc104e84281f95f849773b5"><strong>Etherscan</strong></a></td></tr><tr><td><strong>多签钱包 3</strong> </td><td><strong>0x1Ba06efd1FA12e3E11a03a4D3c652Ec89E06A280</strong></td></tr></tbody></table>
 
-
-
 FEG 团队还开发了一份合约，以促进[流动性提供者 (LP) 贷款](../liquidity-loan-completed.md)资金的增量释放，确保贷款的偿还有条不紊且安全地进行。\
 这份合约将使贷款人能够每两周从流动性中提出索赔，直到贷款完全偿还为止，届时我们可以关闭贷款合约并专注于下一个目标。
